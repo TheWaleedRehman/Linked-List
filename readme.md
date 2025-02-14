@@ -1,4 +1,4 @@
-This Prjoect consists of;
+This Project consists of;
 
 1. Insertion: 
 
